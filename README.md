@@ -13,12 +13,13 @@ Welcome to my portfolio! I'm learning and building workflow automation solutions
 - **Tools:** GitHub
 ## 🎓 Certifications
 
-### n8n Quickstart
-- **Provider:** n8n Education Team
-- **Date:** November 3, 2026
-- **Status:** Completed
+### n8n Quickstart Certificate
 
-📄 [View Certificate (PDF)](certificates/Certificate-n8n.pdf)
+- **Issued by:** n8n Education Team
+- **Date:** November 3, 2026
+- **Recipient:** Houssam El Ati
+
+📄 [View Certificate](Certificate%20n8n.pdf)
 ## 📂 My Projects
 
 ### 1. Customer Service AI Agent
