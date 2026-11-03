@@ -15,6 +15,7 @@ Welcome to my portfolio! I'm learning and building workflow automation solutions
 ## 📂 My Projects
 
 ### 1. Customer Service AI Agent
+![Customer Service AI Agent Workflow](customer-service-agent.png)
 - Built using n8n AI Agent.
 - Connected to external APIs using HTTP Request.
 - Uses memory to maintain conversation context.
