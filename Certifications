@@ -1,0 +1,10 @@
+n8n-automation-portfolio/
+│
+├── certificates/
+│   └── Certificate-n8n.pdf
+│
+├── Customer_Service_AI_Agent_PUBLIC.json
+├── Generating Reports.json
+├── customer-service-agent.png
+├── generating-reports.png
+└── README.md
