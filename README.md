@@ -57,3 +57,12 @@ I'm open to learning opportunities, collaborations, and freelance automation pro
 - Sends report summaries to Discord.
 
 *This workflow helps automate report generation and data processing.*
+## 🌐 Connect With Me
+
+I'm always open to networking, collaboration, and new opportunities in Automation and AI.
+
+- 💼 **LinkedIn:** [Houssam El Atifi](https://www.linkedin.com/in/houssam-el-atifi-4342a1272/)
+- 🐙 **GitHub:** [elatifihoussam-dev](https://github.com/elatifihoussam-dev)
+- 🤖 **Specialization:** n8n Workflow Automation | AI Agents | API Integration
+
+
