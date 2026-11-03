@@ -11,7 +11,14 @@ Welcome to my portfolio! I'm learning and building workflow automation solutions
 - **APIs:** REST APIs, HTTP Requests
 - **Data Handling:** JSON, Data Transformation
 - **Tools:** GitHub
+## 🎓 Certifications
 
+### n8n Quickstart
+- **Provider:** n8n Education Team
+- **Date:** November 3, 2026
+- **Status:** Completed
+
+📄 [View Certificate (PDF)](certificates/Certificate-n8n.pdf)
 ## 📂 My Projects
 
 ### 1. Customer Service AI Agent
