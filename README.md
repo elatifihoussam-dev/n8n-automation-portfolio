@@ -36,3 +36,16 @@ To build practical automation solutions that help businesses save time, improve 
 - GitHub: [elatifihoussam-dev](https://github.com/elatifihoussam-dev)
 
 I'm open to learning opportunities, collaborations, and freelance automation projects.
+### 2. Generating Reports Automation
+
+![Generating Reports Workflow](generating-reports.png)
+
+- Built using n8n workflow automation.
+- Retrieves order and customer data from external APIs.
+- Merges and processes data to calculate totals.
+- Sorts and filters reports by region.
+- Converts report data into CSV files.
+- Uploads generated reports using HTTP Request.
+- Sends report summaries to Discord.
+
+*This workflow helps automate report generation and data processing.*
